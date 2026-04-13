@@ -10,7 +10,7 @@
 <br/>
 
 ## 🌐 Live Preview
-**[Click here to view the live dashboard!](https://VenkatVKT11.github.io/mintcred/)**
+**[Click here to view the live dashboard!](https://VenkatVKT11.github.io/mintcred-demo/)**
 
 ---
 
